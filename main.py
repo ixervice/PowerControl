@@ -301,7 +301,7 @@ class Plugin:
              elif cpu_ID in (
                 'AMD Ryzen 7 4800U with Radeon Graphics'
             ):
-                gpu_freqMax=1750
+                gpu_freqMax=1800
             elif cpu_ID in (
                 'AMD Ryzen 5 4500U with Radeon Graphics'
             ):
